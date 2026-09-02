@@ -1,5 +1,5 @@
-.body{
-    color: #ade8f4;
+body {
+   background-color: #fca311 !important;  
 }
 .marcos{
      border-color: #00b4d8;
@@ -38,3 +38,72 @@
     margin-top: 40px;
  
 }
+.evee1{
+ display: flex;
+ gap: 30PX;
+}
+.evee2{
+    border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.evee3{
+  border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+
+}
+.evee4{
+  border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+}
+.agua{
+        border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+}
+.tierra{
+        border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
