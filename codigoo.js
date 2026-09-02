@@ -24,6 +24,8 @@ function iniciarSesion() {
     for (let i = 0; i < usuarios.length; i++) {
         if (usuarios[i] === usuSesion && contras[i] === contraSesion) {
             alert("Bienvenido " + usuSesion);
+            let url = "Inicio.html";
+            window.location.href = url;
             return;
         }
     }
