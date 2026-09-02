@@ -18,3 +18,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 3px;
 }
+p {
+    color: #22333B;
+    font-size: 20px;    
+}
