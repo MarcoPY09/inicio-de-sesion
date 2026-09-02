@@ -33,3 +33,64 @@ body{
     width: 300px;
     margin-top: 20px;
 }
+.david{
+    display: flex;
+    gap: 30px;
+}
+.perez1{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.perez2{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}  
+
+.perez3{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+} 
+.poke{
+    display: flex;
+    gap: 30px;
+}
+.gro1{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+     margin-left: 500px;
+
+}
+.gro2{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}
+.gro3{
+    border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}
