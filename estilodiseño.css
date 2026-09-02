@@ -1,0 +1,35 @@
+body{
+    background-color: #a8dadc !important;
+}
+.mono1{
+      border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 800px;
+    margin-top: 20px;
+}
+.mono2{
+     border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}
+.comida1{
+      border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}
+.comida2{
+     border-color: #dd2d4a;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: #dd2d4a;
+    width: 300px;
+    margin-top: 20px;
+}
