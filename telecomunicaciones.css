@@ -1,0 +1,24 @@
+body {
+    background-color: #F3FFC6 !important;
+}
+.container{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #1C5253;
+    border-color: #5E503F;
+}
+.carousel {
+    width: 100%;
+    max-width: 1300px;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+p {
+    color: #22333B;
+    font-size: 20px;    
+}
