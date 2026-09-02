@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(to right, #A2D2FF, #BDE0FE);
+}
+.principal div{
+    margin-left: 10px;
+}
+.principal{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-bottom: 5px;
+}
+.registro{
+    border: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #5296A5;
+    width: 500px;
+    height: 400px;
+    font-family: cursive;
+    margin-left: 290px !important;
+}
+.centrar{
+    margin: 30px;
+    margin-left: 40px !important;
+}
+.centrar button{
+    margin-top: 10px;
+}
+img {
+    margin-top: 100px;
+    height: 140px;
+    margin-left: 300px;
+    margin-bottom: 0 !important;
+}
+button {
+    margin-top: 15px !important;
+    color: white;
+    background-color: #5296A5;
+    border-color: #BDE0FE;
+    font-family: cursive;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #5296A5;
+}
+input{
+    background-color: #BDE0FE;
+    border-color: #A2D2FF;
+    font-size: 25px;
+    font-family: cursive;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #A2D2FF;
+}
+.texto{
+    margin-left: 280px !important;
+}

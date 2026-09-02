@@ -1,7 +1,40 @@
+.body{
+    color: #ade8f4;
+}
 .marcos{
-     border-color: #415a77;
+     border-color: #00b4d8;
     border-radius: 10px;
     border-style: solid;
-    background-color: #778da9;
+    background-color: #00b4d8;
     width: 800px;
+    margin-top: 20px;
+}
+.pika{
+    display: flex;
+}
+.mew{
+     border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+    margin-right: 800px;
+}
+.mewtwo{
+         border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+}
+.luca{
+      border-color: #00b4d8;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: #00b4d8;
+    width: 800px;
+    margin-top: 40px;
+ 
 }
