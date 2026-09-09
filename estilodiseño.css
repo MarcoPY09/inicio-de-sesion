@@ -169,14 +169,12 @@ h1 {
 h5 {
     color: #D6CCC2;
 }
-body {
-  margin: 0;
-}
 
 .carrusel {
   height: 100vh;
   display: flex;
   align-items: center;
+
 }
 
 .carrusel-items {
